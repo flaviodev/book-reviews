@@ -10,7 +10,7 @@ import { NavBar } from "./components/NavBar"
 export const App: React.FC = (props) => {
   return (
     <>
-      <Router>
+      <Router basename="/my-blog">
         <NavBar />
         <Routes>
           <Route path="/" element={<HomePage />} />
