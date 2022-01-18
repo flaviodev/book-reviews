@@ -17,7 +17,7 @@ export const NavBar: React.FC = (props) => {
             <Link to="/about">About</Link>
           </li>
           <li className={itemStyle()}>
-            <Link to="/articles">Articles</Link>
+            <Link to="/review">Reviews</Link>
           </li>
         </ul>
       </nav>
