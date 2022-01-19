@@ -42,7 +42,7 @@ const readReviewFile = (name: string, filename: string) => {
 
 let filenames:string[] = fs.readdirSync(directoryPath);
 
-filenames.forEach((filename) => {
+filenames.sort().forEach((filename) => {
   readReviewFile(filename, `${directoryPath}/${filename}`)
 });
 
