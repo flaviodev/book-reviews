@@ -8,7 +8,7 @@ export default {
 } as ComponentMeta<typeof HomePage>;
 
 const HomePageTemplate: ComponentStory<typeof HomePage> = (args) => (
-  <HomePage {...args} />
+  <HomePage />
 );
 
 export const Default = HomePageTemplate.bind({});

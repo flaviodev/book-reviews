@@ -1,8 +1,7 @@
 export interface Review {
     name: string,
     title: string,
-    authors: string[],
-    labels: string[],
+    tags: string[],
     image: string,
     content: string,
     date: string

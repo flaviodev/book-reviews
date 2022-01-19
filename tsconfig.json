@@ -21,6 +21,7 @@
     "jsx": "react-jsx"
   },
   "include": [
-    "src"
-, "scripts/ReviewDataJsonGenerator.ts"  ]
+    "src",
+    "scripts/ReviewDataJsonGenerator.ts"  
+  ]
 }
