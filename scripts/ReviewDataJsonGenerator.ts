@@ -25,7 +25,7 @@ const readReviewFile = (name: string, filename: string) => {
 
       if (value.startsWith("[")) {
         let arrayValues = value.substring(1, value.length - 1).split(",");
-        value = "[" + arrayValues.map((v) => `"${v}"`).join(",") + "]";
+        value = "[" + arrayValues.map((v:string) => `"${v}"`).join(",") + "]";
       } else {
         value = `"${value}"`;
       }
