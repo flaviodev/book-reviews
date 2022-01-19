@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Homeschooling 13 - Combinação&#58; rotina diária e sistema anti-tédio
+title: On Homeschooling 13 - Combinação rotina diária e sistema anti-tédio
 date: 2016-02-05 20:12:00 +0300
 description: 
 img: mnhs13.jpg
