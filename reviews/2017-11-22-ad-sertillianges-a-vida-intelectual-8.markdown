@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Vida Intelectual 8 - O Tempo do Trabalho II
+title: A Vida Intelectual  8 - O Tempo do Trabalho II
 date: 2017-11-22 21:29:00 +0300
 description: 
 img: ads-avi07.jpg

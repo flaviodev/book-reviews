@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Vida Intelectual 4 - A Organização da Vida
+title: A Vida Intelectual  4 - A Organização da Vida
 date: 2017-09-08 20:59:00 +0300
 description: 
 img: ads-avi04.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Homeschooling 1 - Requisitos para o homeschooling
+title: On Homeschooling  1 - Requisitos para o homeschooling
 date: 2015-10-29 23:45:00 +0300
 description: 
 img: mnhs01.jpg

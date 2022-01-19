@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Homeschooling 6 - Homeschooling e Socialização
+title: On Homeschooling  6 - Homeschooling e Socialização
 date: 2015-12-03 19:33:00 +0300
 description: 
 img: mnhs06.jpg

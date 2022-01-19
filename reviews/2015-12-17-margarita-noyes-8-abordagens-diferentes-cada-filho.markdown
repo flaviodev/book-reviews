@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Homeschooling 8 - Abordagens diferentes de ensino para cada filho
+title: On Homeschooling  8 - Abordagens diferentes de ensino para cada filho
 date: 2015-12-17 22:12:00 +0300
 description: 
 img: mnhs08.jpg

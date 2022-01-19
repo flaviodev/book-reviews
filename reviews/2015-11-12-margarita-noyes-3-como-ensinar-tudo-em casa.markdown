@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Homeschooling 3 - Como ensinar tudo em casa, se os próprios pais não sabem tudo?
+title: On Homeschooling  3 - Como ensinar tudo em casa, se os próprios pais não sabem tudo?
 date: 2015-11-12 15:11:00 +0300
 description: 
 img: mnhs03.jpg

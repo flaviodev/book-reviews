@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Homeschooling 2 - Razões para fazer homeschooling
+title: On Homeschooling  2 - Razões para fazer homeschooling
 date: 2015-11-05 13:00:00 +0300
 description: 
 img: mnhs02.jpg

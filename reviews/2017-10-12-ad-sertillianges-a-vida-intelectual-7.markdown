@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Vida Intelectual 7 - O Tempo do Trabalho
+title: A Vida Intelectual  7 - O Tempo do Trabalho
 date: 2017-10-12 22:33:00 +0300
 description: 
 img: ads-avi07.jpg

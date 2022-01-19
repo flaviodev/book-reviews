@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Homeschooling 9 - Estilos de Aprendizagem e educação da imaginação
+title: On Homeschooling  9 - Estilos de Aprendizagem e educação da imaginação
 date: 2016-01-08 19:32:00 +0300
 description: 
 img: mnhs09.jpg

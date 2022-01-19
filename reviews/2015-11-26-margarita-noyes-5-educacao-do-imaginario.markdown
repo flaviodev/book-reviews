@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Homeschooling 5 - Educação do imaginário e superação das dificuldades de aprendizado pelos talentos
+title: On Homeschooling  5 - Educação do imaginário e superação das dificuldades de aprendizado pelos talentos
 date: 2015-11-26 19:11:00 +0300
 description: 
 img: mnhs05.jpeg

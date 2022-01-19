@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Vida Intelectual 1 - A Vocação Intelectual
+title: A Vida Intelectual  1 - A Vocação Intelectual
 date: 2017-07-20 20:15:00 +0300
 description: 
 img: ads-avi01.jpg

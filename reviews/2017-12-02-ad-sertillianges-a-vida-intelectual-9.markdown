@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Vida Intelectual 9 - O Trabalho de Campo
+title: A Vida Intelectual  9 - O Trabalho de Campo
 date: 2017-12-02 21:39:00 +0300
 description: 
 img: ads-avi09.jpg

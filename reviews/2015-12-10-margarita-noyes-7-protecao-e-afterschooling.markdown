@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Homeschooling 7 - Proteção das influências do mundo e Afterschooling
+title: On Homeschooling  7 - Proteção das influências do mundo e Afterschooling
 date: 2015-12-10 21:11:00 +0300
 description: 
 img: mnhs07.jpg

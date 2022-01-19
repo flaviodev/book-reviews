@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Vida Intelectual 6 - Das Partes para o Todo
+title: A Vida Intelectual  6 - Das Partes para o Todo
 date: 2017-10-02 21:34:00 +0300
 description: 
 img: ads-avi06.jpg

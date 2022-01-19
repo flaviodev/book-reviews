@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Vida Intelectual 5 - A Organização da Vida II
+title: A Vida Intelectual  5 - A Organização da Vida II
 date: 2017-09-25 21:34:00 +0300
 description: 
 img: ads-avi04.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Vida Intelectual 3 - As Virtudes do Intelectual Cristão II
+title: A Vida Intelectual  3 - As Virtudes do Intelectual Cristão II
 date: 2017-08-28 21:54:00 +0300
 description: 
 img: ads-avi02.jpg

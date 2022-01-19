@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Homeschooling 4 - Os 3 Rs, o aprendizado no dia-a-dia, o tédio, a preguiça e o trabalho
+title: On Homeschooling  4 - Os 3 Rs, o aprendizado no dia-a-dia, o tédio, a preguiça e o trabalho
 date: 2015-11-19 20:23:00 +0300
 description: 
 img: mnhs04.jpg

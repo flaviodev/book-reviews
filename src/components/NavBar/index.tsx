@@ -1,9 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { useLocation } from "react-router";
 
 export const NavBar: React.FC = (props) => {
-
   const itemStyle = () => "p-2 hover:bg-black hover:text-white";
 
   return (
