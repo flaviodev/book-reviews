@@ -8,7 +8,7 @@ fig-caption:
 tags: [Mons. Álvares Negromonte]
 ---
 
-* Vive-se como se pensa, educa-se como se vive!
+* **Vive-se como se pensa, educa-se como se vive!**
 * Filosofia como ciência coroada pela Teologia que reinam sobre as demais ciências, pois primam pela incumbência da unicidade, de apresentar os princípios unificadores do todo.
 * Porém hoje o que prevalece é uma visão utilitarista da educação
 * A perca da moral absoluta
