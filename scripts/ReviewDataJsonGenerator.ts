@@ -61,7 +61,7 @@ const createReviewObject = (filename: string, metadataLines: string[], content: 
     name: name,
     title: metadata["title"],
     tags: metadata["tags"],
-    image: `../review-images/${metadata["img"]}`,
+    image: `./review-images/${metadata["img"]}`,
     date: metadata["date"],
     content: content,
   });
