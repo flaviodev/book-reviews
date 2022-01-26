@@ -5,40 +5,67 @@ const reviews:any[] = [];
 const directoryPath = path.join(__dirname, "../reviews");
 
 const readReviewFile = (name: string, filename: string) => {
-  const data = fs.readFileSync(filename);
+  const file = fs.readFileSync(filename);
 
-  const lines = data.toString().replace(/\r\n/g, "\n").split("\n");
+  const reviewLines = getLinesFromReviewFile(file);
+  const [metadataLines, contentLines] = extractContentFromReviewLines(reviewLines);
 
-  let json = "{ \"name\" : \"" + name.replaceAll(".markdown", "") + "\", ";
+  const content = contentLines.join("\n");
+  const review = createReviewObject(name, metadataLines, content);
+  reviews.push(review);
+};
+
+const getLinesFromReviewFile = ((file:Buffer) => {
+  return file.toString().replace(/\r\n/g, "\n").replaceAll('"', '\\"').split("\n");
+});
+
+const extractContentFromReviewLines = ((lines:string[]) => {
   let attributesOpen = false;
+
+  let metadataLines = [];
+  let contentLines = [];
 
   for (let line of lines) {
     if (line.startsWith("---") && !attributesOpen) {
       attributesOpen = true;
     } else if (line.startsWith("---") && attributesOpen) {
-      json += `"content" : "`;
       attributesOpen = false;
     } else if (attributesOpen) {
-      let parts = line.split(":");
-      let key = parts[0].trim();
-      let value = parts[1].trim();
-
-      if (value.startsWith("[")) {
-        let arrayValues = value.substring(1, value.length - 1).split(",");
-        value = "[" + arrayValues.map((v:string) => `"${v}"`).join(",") + "]";
-      } else {
-        value = `"${value}"`;
-      }
-      json += `"${key}":${value}, `;
+      metadataLines.push(line);
     } else {
-      json += `\\n${line.replaceAll('"', '\\"')}`;
+      contentLines.push(line);
     }
   }
-  json += `" }`;
 
-  let objectReview = JSON.parse(json);
-  reviews.push(objectReview);
-}
+  return [metadataLines, contentLines];
+});
+
+const createReviewObject = (filename: string, metadataLines: string[], content: string) => {
+  const name = filename.replaceAll(".markdown", "");
+  const metadata: any[string] = [];
+  
+  metadataLines.forEach(line => {
+    let parts = line.split(":");
+    let key = parts[0].trim();
+    let value = parts[1].trim();
+    let arrayValues = undefined;
+
+    if (value.startsWith("[")) {
+      arrayValues = value.substring(1, value.length - 1).split(",");
+    } 
+
+    metadata[key] = arrayValues ? arrayValues : value;
+  });
+
+  return ({
+    name: name,
+    title: metadata["title"],
+    tags: metadata["tags"],
+    image: `../review-images/${metadata["img"]}`,
+    date: metadata["date"],
+    content: content,
+  });
+};
 
 let filenames:string[] = fs.readdirSync(directoryPath);
 
@@ -46,18 +73,9 @@ filenames.sort().forEach((filename) => {
   readReviewFile(filename, `${directoryPath}/${filename}`)
 });
 
-let converted = reviews.map(review => ({
-  name: review.name,
-  title: review.title,
-  tags: review.tags,
-  image: `../review-images/${review.img}`,
-  date: review.date,
-  content: review.content,
-}));
-
 fs.writeFile(
   "src/infrastructure/data.json",
-  JSON.stringify(converted),
+  JSON.stringify(reviews),
   (error: Error) => {
     if (error) throw error;
 
