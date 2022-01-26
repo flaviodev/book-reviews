@@ -2,7 +2,7 @@
   "name": "my-blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://flaviodev.github.io/my-blog/",
+  "homepage": "https://flaviodev.github.io/my-blog",
   "dependencies": {
     "@heroicons/react": "^1.0.5",
     "@tailwindcss/postcss7-compat": "^2.2.17",

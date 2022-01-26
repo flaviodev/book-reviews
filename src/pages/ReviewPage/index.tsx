@@ -5,8 +5,11 @@ import gfm from "remark-gfm";
 import rehypeRaw from "rehype-raw";
 import Error404 from "../Error404";
 
-const ReviewPage = (props: { reviewService: ReviewService }) => {
-  const marked = require("marked");
+interface Props extends React.HTMLProps<HTMLDivElement> {
+  reviewService: ReviewService;
+}
+
+const ReviewPage = (props: Props) => {
   const params = useParams();
   const name = params.name ? params.name : "";
   const review = props.reviewService.get(name);

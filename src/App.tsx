@@ -1,4 +1,3 @@
-import React from "react";
 import { Route, Routes } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import ReviewsList from "./pages/ReviewsList";
@@ -11,7 +10,7 @@ import { ReviewServiceJson } from "./infrastructure/ReviewServiceJson";
 
 const service: ReviewService = ReviewServiceJson;
 
-export const App: React.FC = (props) => {
+export const App = () => {
   return (
     <>
       <NavBar />

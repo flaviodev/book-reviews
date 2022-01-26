@@ -1,7 +1,6 @@
-import React from "react";
 import { useLocation } from "react-router";
 
-const Error404: React.FC = (props) => {
+const Error404 = () => {
   const location = useLocation();
 
   return (
