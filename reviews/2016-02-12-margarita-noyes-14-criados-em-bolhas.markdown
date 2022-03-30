@@ -5,7 +5,10 @@ date: 2016-02-12 21:22:00 +0300
 description: 
 img: mnhs14.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * Homeschooling é alvo de críticas, principalmente de isolamento, de criar os filhos em bolhas
@@ -89,5 +92,3 @@ tags: [Margarita Noyes]
 * 26'55 - Os pais que sabem bem o que creem não deviam dar ouvidos às críticas, os pais devem preservar e fazerem o que o coração diz o que é melhor para os filhos
 * 27'35 - Independentemente da opinião dos outros, ou do que eles fizeram ou fazem na educação dos filhos deles, é a sua responsabilidade, o seu privilégio, é a única chance que você terá na vida de fazer o que acha certo, isso é o que é mais importante
 * 28'45 - O importante a acrescentar é que a família deve ocupar o primeiro lugar, pois o pais são quem realmente se importam com o resultado da educação, com a felicidade dos filhos. Amigos e parentes por mais próximos não têm  como ter esse vínculo de amor e portanto não tem como se importar como os pais importam. 
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

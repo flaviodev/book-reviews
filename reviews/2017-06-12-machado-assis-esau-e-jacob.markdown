@@ -5,7 +5,10 @@ date: 2017-06-12 20:21:00 +0300
 description: 
 img: ma-ej.jpg
 fig-caption: 
-tags: [Machado de Assis]
+tags: [Literatura, Literatura Brasileira]
+work-title: Esaú e Jacob
+author: Machado de Assis
+publishing-year: 1904
 ---
 
 A obra expressa de certo modo uma crítica de Machado de Assis ao cenário político da época, fazendo diversas citações a momentos importantes da história política do Brasil na transição do século XIX para o século XX, desde de o movimento abolicionista até a proclamação da república. Entretanto, em sua grande habilidade de literária, Machado compõe uma boa história rica em analogias, que pode (e merecem) ser olhadas com atenção.

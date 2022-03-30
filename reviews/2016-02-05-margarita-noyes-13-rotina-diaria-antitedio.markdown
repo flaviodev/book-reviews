@@ -5,7 +5,10 @@ date: 2016-02-05 20:12:00 +0300
 description: 
 img: mnhs13.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * Estabelecer uma rotina
@@ -89,5 +92,3 @@ tags: [Margarita Noyes]
 * 28'45 - Na casa da Margarita só há um remédio para o tédio: trabalho
 * 29'05 - Se eles dissessem que estavam entediados a Margarita mandava lavarem o carro, e eles poderiam dizer: "Ah! eu quero ler o meu livro!", e a resposta era: "Que ótimo! Depois que lavar o carro!"
 * 29'35 - Desse modo ninguém nunca dizia estar entediado, e realmente nunca ficavam entediados
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

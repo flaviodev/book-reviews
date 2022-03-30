@@ -5,7 +5,10 @@ date: 2016-03-19 21:24:00 +0300
 description: 
 img: mnhs19.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * Disponibilizar um ambiente rico para as crianças
@@ -42,5 +45,3 @@ tags: [Margarita Noyes]
 * 24'18 - E se você  fizer que a criança copie bons textos como versículos da bíblia, você pode ficar tranquilo, que eles estão escrevendo, lendo e praticando caligrafia. É preciso insistir que segurem o lápis corretamente e que posicionem o pulso corretamente
 *  25'16 - Muitas crianças não gostam no início, pois é como um exercício que no começo machuca as mãos, uma criança educada em casa pode reclamar muito no começo, mas muitos homeschoolers não exigem dos filhos esse treinamento e depois se arrependem, pois quando os filhos chegam na faculdade a letra deles parecem de crianças da 3ª série
 * 26'03 - Esse é um problema com os homeschoolers nos Estados Unidos, a própria Margarita reconhece que a caligrafia de seus filhos não é boa e que ela faria atividades diárias com seus filhos se pudesse voltar atrás.
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

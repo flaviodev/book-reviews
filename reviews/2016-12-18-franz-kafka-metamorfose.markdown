@@ -5,7 +5,10 @@ date: 2016-12-18 22:12:00 +0300
 description: 
 img: fc-m.jpg
 fig-caption: 
-tags: [Franz Kafka]
+tags: [Literatura]
+work-title: A Metamorfose
+author: Franz Kafka
+publishing-year: 1915
 ---
 
 A obra trata de materialismo, da preponderância do pensamento numa visão utilitarista de tudo, inclusive das pessoas, onde reina o egoísmo e o desamor.

@@ -5,7 +5,10 @@ date: 2015-12-10 21:11:00 +0300
 description: 
 img: mnhs07.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * Uma família numerosa é suficiente para a socialização de uma criança
@@ -42,5 +45,3 @@ tags: [Margarita Noyes]
 * 21'20 - Margarita conta que tinha um caderno de cópias, onde os filhos copiavam vários textos importantes, como por exemplo trechos da Bíblia
 * 22'20 - Jogos de matemática e aplicativos educacionais também pode ajudar
 * 24'30 - Narração e cópia são muito utilizados por homeschoolers nos Estados Unidos, como técnicas de Charlotte Mason e técnicas de memorização usadas mais em abordagens de uma formação clássica. Os homeschoolers são muito ecléticos  com relação a métodos (considerando o ponto da individualização do ensino, se busca o que mais se encaixa no perfil de cada família e cada criança). O homeschooling é uma arte e não uma ciência exata, muitas vezes os pais têm medo de não estar fazendo as coisas de forma correta. Porém é igual criar filhos, não há estritamente um meio definido como certo, é preciso avaliar dentro das possibilidades existentes o que dá mais resultado, tudo em homeschooling é focado para o resultado, sempre será preferido o que é mais eficaz num contexto definido, não é o que a maioria usa, não é o que está na moda, não é o que é imposto por uma instituição, mas sim o que trará resultado visando a formação da criança é uma escolha comprometida com o futuro da criança, é uma escolha feita com amor.
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

@@ -5,7 +5,10 @@ date: 2016-03-05 19:56:00 +0300
 description: 
 img: mnhs17.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * A cooperação no contexto do homeschooling é uma realidade onde duas ou mais famílias se reúnem para concentrar esforços e recursos, promover interação e dividir experiências, dentro de um objetivo específico comum
@@ -51,5 +54,3 @@ tags: [Margarita Noyes]
 * 22'40 - No final da discussão de cada mês era escolhido um novo livro e uma nova líder para a próxima discussão, elas fizeram isso por 3 anos, sendo ao longo do tempo as meninas mais velhas assumiram a organização do grupo
 * 23'20 - Isso era muito bom para as meninas, pois aprendiam na prática como liderar atividades e foi também nesse em que elas tiveram contato com os melhores livros que elas leram
 * 24'00 - A Margarita acha de forma confiante que as famílias brasileiras encontrarão novas ideais para cooperação
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

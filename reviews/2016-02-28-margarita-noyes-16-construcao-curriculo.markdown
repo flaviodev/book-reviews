@@ -5,7 +5,10 @@ date: 2016-02-28 22:04:00 +0300
 description: 
 img: mnhs16.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * As primeiras famílias homeschooling começaram a surgir nos Estados Unidos entre os final dos anos 70 e início dos anos 80
@@ -65,5 +68,3 @@ tags: [Margarita Noyes]
 * 21'40 - Eles viveram com medo por bastante tempo, e até mesmo a Margarita ficava com medo quando ela estava fazendo homeschooling com os seus filhos, quando eles eram pequenos
 * 22'10 - Isso porque havia uma reação negativa da sociedade contra o homeschooling nos primeiros anos, as pessoas achavam que era ruim fazer homeschooling, pois você ia privar seu filho de receber educação e ninguém sabia que ia ser tão bom para as crianças
 * 22'50 - Então se uma vizinha via seus filhos em casa durante o dia, ela poderia ligar para polícia, e isso amedrontava, mas as pessoas que faziam isso achavam que a vida moral e intelectual da criança dependia disso
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

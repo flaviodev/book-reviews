@@ -5,7 +5,10 @@ date: 2016-05-03 21:22:00 +0300
 description: 
 img: ppr-fl01.jpg
 fig-caption: 
-tags: [Padre Paulo Ricardo]
+tags: [Filosofia]
+work-title: Filosofia da Linguagem
+author: Padre Paulo Ricardo
+publishing-year: 2012
 ---
 
 * A filosofia da linguagem é um capítulo da antropologia da filosofia

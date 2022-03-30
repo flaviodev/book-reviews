@@ -5,7 +5,10 @@ date: 2016-05-10 22:01:00 +0300
 description: 
 img: ppr-fl02.jpg
 fig-caption: 
-tags: [Padre Paulo Ricardo]
+tags: [Filosofia]
+work-title: Filosofia da Linguagem
+author: Padre Paulo Ricardo
+publishing-year: 2012
 ---
 
 * Retoma-se a aula a partir da paralaxe cognitiva, onde é ressaltado que o exercício da filosofia exige um pacto de sinceridade consigo mesmo, a busca da verdade, mesmo se a verdade foi doída ou desagradável

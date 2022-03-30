@@ -5,7 +5,10 @@ date: 2016-03-11 22:16:00 +0300
 description: 
 img: mnhs18.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * Como as crianças homeschoolers são avalidas nos Estados Unidos
@@ -41,5 +44,3 @@ tags: [Margarita Noyes]
 * 21'46 - Então, ter o hábito de escrever tudo que as crianças fazem e depois olhar para trás, torna muito mais fácil escrever os registros acadêmicos e tê-los na mão, caso o governo questione o seu modelo de ensino
 * 22'45 - Uma boa ideia para crianças em idade pré-escolar é tirar fotos de momentos de brincadeiras, das atividades artísticas, bem como, das demais atividades. Sendo que, muito portfólios americanos usam fotos para mostrar o ambiente de aprendizado da criança, onde detalhes contam muito para os avaliadores, como: mesas e cadeiras pequenas e crianças envolvidas em atividades criativas.
 * 23'26 - Então é uma excelente ideia ter imagens e fotos no portfólio até mesmo para crianças mais velhas
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

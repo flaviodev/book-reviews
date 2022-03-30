@@ -45,16 +45,19 @@ const createReviewObject = (filename: string, metadataLines: string[], content: 
   const metadata: any[string] = [];
   
   metadataLines.forEach(line => {
-    let parts = line.split(":");
-    let key = parts[0].trim();
-    let value = parts[1].trim();
-    let arrayValues = undefined;
-
-    if (value.startsWith("[")) {
-      arrayValues = value.substring(1, value.length - 1).split(",");
-    } 
-
-    metadata[key] = arrayValues ? arrayValues : value;
+    let separatorIndex = line.indexOf(":");
+    
+    if(separatorIndex !== -1) {
+      let key = line.substring(0, separatorIndex).trim();
+      let value = line.substring(separatorIndex+1).trim();
+      let arrayValues = undefined;
+  
+      if (value.startsWith("[")) {
+        arrayValues = value.substring(1, value.length - 1).split(",");
+      } 
+  
+      metadata[key] = arrayValues ? arrayValues : value;
+    }
   });
 
   return ({
@@ -63,6 +66,9 @@ const createReviewObject = (filename: string, metadataLines: string[], content: 
     tags: metadata["tags"],
     image: `./review-images/${metadata["img"]}`,
     date: metadata["date"],
+    workTitle: metadata["work-title"],
+    author: metadata["author"],
+    publishingYear: metadata["publishing-year"],
     content: content,
   });
 };

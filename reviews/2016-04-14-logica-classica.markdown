@@ -5,7 +5,10 @@ date: 2016-04-14 20:11:00 +0300
 description: 
 img: cal-lc.jpg
 fig-caption: 
-tags: [Confraria das Artes Liberais]
+tags: [Educação]
+work-title: Lógica Clássica
+author: Civilização Ocidental
+publishing-year: 2014
 ---
 
 * O curso aborda a lógica aristotélica juntamente com o que foi acrescentado pela tradição escolástica

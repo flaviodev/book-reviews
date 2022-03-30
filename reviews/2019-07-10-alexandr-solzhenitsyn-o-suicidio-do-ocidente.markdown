@@ -5,7 +5,10 @@ date: 2019-07-10 23:24:00 +0300
 description: 
 img: as-so.jpg
 fig-caption: 
-tags: [Alexandr Solzhenitsyn]
+tags: [Geo-Política]
+work-title: O Suicídio do Ocidente
+author: Alexandr Solzhenitsyn
+publishing-year: 1978
 ---
 
 Discurso de 1978 - Universidade de Harvard

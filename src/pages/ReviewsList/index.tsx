@@ -13,7 +13,7 @@ const ReviewsList = (props: Props) => {
 
   return (
     <>
-      <h1 className="m-5 text-xl font-bold">Reviews</h1>
+      <h1 className="m-5 text-xl font-bold text-center">Reviews</h1>
       {reviews.map((review, key) => (
         <ReviewListItem key={key} review={review} />
       ))}

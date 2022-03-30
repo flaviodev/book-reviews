@@ -5,7 +5,10 @@ date: 2016-02-20 19:50:00 +0300
 description: 
 img: mnhs15.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * No Brasil o homeschooling é muito recente, nos Estados Unidos já existe há mais de 30 anos
@@ -79,5 +82,3 @@ tags: [Margarita Noyes]
 * 23'10 - Então o movimento homeschooling cresceu fazendo as coisas de um modo não muito "tradicional"
 * 23'30 - Ensinar matemática cozinhando, ciência desenhando plantas da natureza
 * 23'50 - E os resultados eram tão extraordinários que virou ditado dizer que se a criança é educada em casa então ela é um gênio
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

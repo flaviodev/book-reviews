@@ -5,7 +5,10 @@ date: 2016-06-04 21:12:00 +0300
 description: 
 img: ppr-fl05.jpg
 fig-caption: 
-tags: [Padre Paulo Ricardo]
+tags: [Filosofia]
+work-title: Filosofia da Linguagem
+author: Padre Paulo Ricardo
+publishing-year: 2012
 ---
 
 * A linguagem humana está presente na música erudita, não entendemos isso porque não fomos treinados para ouvir música clássica

@@ -6,6 +6,9 @@ description:
 img: hg-3.jpg
 fig-caption: 
 tags: [História]
+work-title: História de Goiás
+author: 
+publishing-year: 
 ---
 
 Cronograma Inicial

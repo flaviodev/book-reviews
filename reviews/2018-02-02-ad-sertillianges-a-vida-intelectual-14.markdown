@@ -5,7 +5,10 @@ date: 2018-02-02 0:11:00 +0300
 description: 
 img: ads-avi14.jpg
 fig-caption: 
-tags: [AD Sertillanges]
+tags: [Educação]
+work-title: A Vida Intelectual
+author: AD Sertillanges
+publishing-year: 1921
 ---
 
 I - Guardar o contato tom a vida

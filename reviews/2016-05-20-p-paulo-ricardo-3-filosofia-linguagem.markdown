@@ -5,7 +5,10 @@ date: 2016-05-20 23:05:00 +0300
 description: 
 img: ppr-fl03.jpg
 fig-caption: 
-tags: [Padre Paulo Ricardo]
+tags: [Filosofia]
+work-title: Filosofia da Linguagem
+author: Padre Paulo Ricardo
+publishing-year: 2012
 ---
 
 * Recuando um pouco na abordagem da filosofia da linguagem, verifica-se pontos relacionados às bases da filosofia de Platão.

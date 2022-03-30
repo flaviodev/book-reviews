@@ -5,7 +5,10 @@ date: 2015-11-13 19:34:00 +0300
 description: 
 img: ds-afpa.jpg
 fig-caption: 
-tags: [Dorothy Sayers]
+tags: [Educação]
+work-title: As Ferramentas Perdidas do Aprendizado
+author: Dorothy Sayers
+publishing-year: 1947
 ---
 
 * Dados sobre a autora e o texto

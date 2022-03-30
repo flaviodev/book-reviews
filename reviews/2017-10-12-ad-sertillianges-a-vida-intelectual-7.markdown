@@ -5,7 +5,10 @@ date: 2017-10-12 22:33:00 +0300
 description: 
 img: ads-avi07.jpg
 fig-caption: 
-tags: [AD Sertillanges]
+tags: [Educação]
+work-title: A Vida Intelectual
+author: AD Sertillanges
+publishing-year: 1921
 ---
 
 I - O trabalho permanente

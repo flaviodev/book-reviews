@@ -5,7 +5,10 @@ date: 2016-03-26 22:07:00 +0300
 description: 
 img: mnhs20.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 * O ponto mais importante sobre o aprendizado de ciências é torná-lo sempre o mais concreto e natural o possível, de modo a entender como o mundo funciona
 * E para isso nada melhor que o contato com esse mundo, portanto a dica de seguir um história da ciência natural juntamente com experiências práticas na natureza é muito mais interessante que uma sobrecarga de ensino escolarizado
@@ -50,5 +53,3 @@ tags: [Margarita Noyes]
 * 20'48 - Muitas vezes a Margarita levou jovens brasileiros para caminhadas no bosque perto da casa dela e apesar de a Margarita não esperar que os brasileiros reconhecessem as plantas que são típicas de lá da região (EUA), a coisa interessante é que ela usava a metodologia: "pra que você acha que  server isto?", querendo que as pessoas dessem palpites, mas os jovens ficavam relutantes em dar esses palpites 
 * 21'44 - E a pergunta era se as pessoas sabiam ou não a resposta, mas mesmo não sabendo a resposta as pessoas não tentavam adivinhar, enquanto nesse método de homeschooling as crianças aprendem a pensar criativamente para buscar mais conhecimento, criando conexões com outras coisas não relacionadas com o que ela tenha vista, mas que possam ser similares 
 * 22'15 - E essa é uma maneira de levar a vida quando você cresce, então fazer dessa forma é muito bom para sua educação 
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

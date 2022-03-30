@@ -5,7 +5,10 @@ date: 2018-01-15 22:38:00 +0300
 description: 
 img: ads-avi11.jpg
 fig-caption: 
-tags: [AD Sertillanges]
+tags: [Educação]
+work-title: A Vida Intelectual
+author: AD Sertillanges
+publishing-year: 1921
 ---
 
 B - A organização da memória

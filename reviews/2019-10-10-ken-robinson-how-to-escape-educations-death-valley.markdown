@@ -5,7 +5,10 @@ date: 2019-10-10 23:24:00 +0300
 description: 
 img: kr-heedv.jpg
 fig-caption: 
-tags: [Ken Robinson]
+tags: [Educação]
+work-title: How to escape education's death valley
+author: Ken Robinson
+publishing-year: 2013
 ---
 
 * Education as a higher purpose in people's lives
@@ -14,7 +17,6 @@ tags: [Ken Robinson]
 
 #### Topics
 
-* speaker with good humer and British accent
 * legislation "no child left behind"
 * Education not just an economic issue
 * dropout crisis

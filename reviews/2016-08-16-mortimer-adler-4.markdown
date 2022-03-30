@@ -5,7 +5,10 @@ date: 2016-08-16 21:44:00 +0300
 description: 
 img: ma-cll04.jpg
 fig-caption: 
-tags: [Mortimer J. Adler]
+tags: [Educação]
+work-title: Como Ler Livros
+author: Mortimer J. Adler
+publishing-year: 1940
 ---
 
 * Revisando os tópicos anteriores

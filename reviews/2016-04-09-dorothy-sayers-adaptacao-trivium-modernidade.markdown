@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Aplicação da Adaptação Moderna do Trivium (As Ferramentas Perdidas do Aprendizado III)
+title: Aplicação da Adaptação Moderna do Trivium
 date: 2016-04-09 22:50:00 +0300
 description: 
 img: ds-aamt.jpeg
 fig-caption: 
-tags: [Dorothy Sayers]
+tags: [Educação]
+work-title: As Ferramentas Perdidas do Aprendizado
+author: Dorothy Sayers
+publishing-year: 1947
 ---
 
 Segue uma estrutura de aplicação do trivium com base nos moldes estabelecidos pela Dorothy Sayers em seu texto The Lost Tools of Learning, sendo essa estrutura acrescida de diversas outras referências pertinentes à aplicação do trivium:

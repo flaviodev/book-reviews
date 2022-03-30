@@ -5,7 +5,10 @@ date: 2017-12-27 23:11:00 +0300
 description: 
 img: ads-avi11.jpg
 fig-caption: 
-tags: [AD Sertillanges]
+tags: [Educação]
+work-title: A Vida Intelectual
+author: AD Sertillanges
+publishing-year: 1921
 ---
 
 A: A Leitura

@@ -5,7 +5,10 @@ date: 2016-01-05 22:11:00 +0300
 description: 
 img: ds-afpa2.jpg
 fig-caption: 
-tags: [Dorothy Sayers]
+tags: [Educação]
+work-title: As Ferramentas Perdidas do Aprendizado
+author: Dorothy Sayers
+publishing-year: 1947
 ---
 
 * Dados sobre a autora e o texto
@@ -72,3 +75,4 @@ tags: [Dorothy Sayers]
   * Pois os educados segundo o trivium usam a mente, aprendem a pensar. O que resulta na habilidade de aprender com a metade do tempo e um quarto do esforço
   * A modernidade perdeu as ferramentas e deu aos seus alunos gabaritos complicadíssimo que ninguém consegue entender direito. O que resulta na total incapacidade de enxergar o trabalho como um todo, de vislumbrar a obra acabada
   * Qualquer esforço de educação que não ensina o homem a educar-se a si próprio é um esforço em vão
+  

@@ -5,7 +5,10 @@ date: 2016-06-21 21:56:00 +0300
 description: 
 img: ppr-fl07.jpg
 fig-caption: 
-tags: [Padre Paulo Ricardo]
+tags: [Filosofia]
+work-title: Filosofia da Linguagem
+author: Padre Paulo Ricardo
+publishing-year: 2012
 ---
 
 * Porque a filosofia da linguagem ganhou tanta importância, principalmente no período pós-modernidade

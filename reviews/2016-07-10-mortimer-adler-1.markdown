@@ -5,7 +5,10 @@ date: 2016-07-10 21:23:00 +0300
 description: 
 img: ma-cll01.jpg
 fig-caption: 
-tags: [Mortimer J. Adler]
+tags: [Educação]
+work-title: Como Ler Livros
+author: Mortimer J. Adler
+publishing-year: 1940
 ---
 
 * O autor inicia já no primeiro parágrafo do livro considerando de forma imperativa que o livro em questão é destinado para quem não sabe ler, após o argumento posto de forma bem evidente de chocar o leitor, o autor introduz a explicação de um conceito relacionado ao que entendemos a respeito de leitura e o que é de fato ler.

@@ -5,7 +5,10 @@ date: 2016-03-30 19:32:00 +0300
 description: 
 img: dl-tm.jpg
 fig-caption: 
-tags: [Diane Lockman]
+tags: [Educação]
+work-title: Trivium Mastery - The Intersection of Three Roads
+author: Diane Lockman
+publishing-year: 2009
 ---
 
  * A autora já indica no seu prefácio que sua abordagem é para uma aplicação "neoclássica" do trivium, ao mesmo tempo que insiste no resgate de uma herança educacional de uma "verdadeira" educação clássica cristã
@@ -26,5 +29,3 @@ tags: [Diane Lockman]
  * Há uma confusão muito grande, entre ensinar o que os antigos ensinavam, e criar um "esqueleto" do que era feito antes, esvaziar o conteúdo, e colocar uma série de conteúdos, métodos e abordagens com nomes que lembram o que se fazia antes, e chamar isso de trivium.
  * A impressão é que este livro indica o que pode ser chamado de no máximo uma "preparação" para o trivium.
  * Falar de formação clássica sem abordar os textos clássicos sem mencionar o estudo do latim, é no mínimo saber que estamos falando de algo muito inferior ao que é de fato a formação clássica. Pode ser no máximo, uma formação moderna com uma roupagem clássica, aproveitando de alguns princípios clássicos, mas sem nenhum aprofundamento substancial no que é a essência da formação clássica. Resumindo, é ruim? Não é! Mas não é trivium!
-
-#### Fonte:  Trivium Mastery: The Intersection of Three Roads: Classical Education ####

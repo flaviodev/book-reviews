@@ -5,7 +5,10 @@ date: 2017-07-20 20:15:00 +0300
 description: 
 img: ads-avi01.jpg
 fig-caption: 
-tags: [AD Sertillanges]
+tags: [Educação]
+work-title: A Vida Intelectual
+author: AD Sertillanges
+publishing-year: 1921
 ---
 
  I - O intelectual é um consagrado

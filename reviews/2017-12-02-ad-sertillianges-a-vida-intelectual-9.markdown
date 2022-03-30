@@ -5,7 +5,10 @@ date: 2017-12-02 21:39:00 +0300
 description: 
 img: ads-avi09.jpg
 fig-caption: 
-tags: [AD Sertillanges]
+tags: [Educação]
+work-title: A Vida Intelectual
+author: AD Sertillanges
+publishing-year: 1921
 ---
 
 I - Ciência Comparada

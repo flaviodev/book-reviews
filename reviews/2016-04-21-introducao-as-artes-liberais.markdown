@@ -5,7 +5,10 @@ date: 2016-04-21 20:42:00 +0300
 description: 
 img: cal-ial.jpg
 fig-caption: 
-tags: [Confraria das Artes Liberais]
+tags: [Educação]
+work-title: Introdução às Artes Liberais
+author: Confraria das Artes Liberais
+publishing-year: 2014
 ---
 
  * Em tempos de alto grau de relativismo na sociedade, advindo de um séria influência dos pensadores modernos e de processos de doutrinação cultural no mundo, houve uma perversão do conceito de educação e de ensino, o qual levou nosso país a um declínio (pra não dizer um abismo) cultural enorme, a ponto de se poder dizer que o Brasil não possui uma elite cultural, e não possui produção de cultura ou pensamento filosófico autêntico. Tudo é produto de processos de engenharia social direcionados a um plano de revolucionário ideológico num plano de poder absoluto. 

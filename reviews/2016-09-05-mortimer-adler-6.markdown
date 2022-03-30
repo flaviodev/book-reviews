@@ -5,7 +5,10 @@ date: 2016-09-05 20:45:00 +0300
 description: 
 img: ma-cll06.jpg
 fig-caption: 
-tags: [Mortimer J. Adler]
+tags: [Educação]
+work-title: Como Ler Livros
+author: Mortimer J. Adler
+publishing-year: 1940
 ---
 
 * As quatro regras da segunda leitura

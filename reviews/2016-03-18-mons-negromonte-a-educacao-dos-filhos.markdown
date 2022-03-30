@@ -5,7 +5,10 @@ date: 2016-03-19 23:01:00 +0300
 description: 
 img: man-aef.jpg
 fig-caption: 
-tags: [Mons. Álvares Negromonte]
+tags: [Educação]
+work-title: A Educaçao dos Filhos
+author: Mons. Álvares Negromonte
+publishing-year: 1961
 ---
 
 * **Vive-se como se pensa, educa-se como se vive!**
@@ -25,14 +28,14 @@ tags: [Mons. Álvares Negromonte]
   * Sem valores morais
   * sem submissão a nada
 * Uma educação para o egoísmo, para o conforto, comodismo e individualismo
-* O conforto e o individualismo, faz com que os pais abram mão da educação dos filhos, em conjunto de uma despreocupação com a correção, "para que castigar?", "deixa fazer!", ou seja, os pais abrem mão da formação intelectual e moral, onde a escola faz formação intelectual como lhe convém (segundo seus interesses e os interesses dos que a controlam), e na formação moral o mínimo que fazem é não se preocupar, quando a não há o interesse claro da instituição da perversão.
-* No totalitarismo o homem como número da massa, que existe para o estado, em uma realidade imanentista, onde só existe essa vida e tudo deve ser para a satisfação própria, desde que sirva ao interesse do estado
+* O conforto e o individualismo, faz com que os pais abram mão da educação dos filhos, em conjunto de uma despreocupação com a correção, "para que castigar?", "deixa fazer!", ou seja, os pais abrem mão da formação intelectual e moral, onde a escola faz formação intelectual como lhe convém (segundo seus interesses, ou seja, os interesses dos que a controlam), e na formação moral o mínimo que fazem é não se preocupar, quando não há o interesse claro da instituição da perversão (que infelizmente é o que ocorre na maioria das escolas atualmente).
+* No totalitarismo, o homem como número da massa, que existe para o estado, em uma realidade imanentista, onde só existe essa vida e tudo deve ser para a satisfação própria (desde que sirva ao interesse do estado)
 * Nisso quem deve educar os filhos deve ser o estado e não os pais
 * Provocando assim a quebra da família
 * A moral é o principal empecilho para o totalitarismo
-* A Natureza imperfeita busca a perfeição
-* Domínio de si, ordenar as paixões, ordenar o amor
-* O caráter vale mais que a inteligência
+  * A Natureza imperfeita busca a perfeição
+  * Domínio de si, ordenar as paixões, ordenar o amor
+  * O caráter vale mais que a inteligência
 * Deve-se considerar "o todo", tudo está em tudo, não há como isolar ou formar conceitos exclusivos
 * Pois Temos todas as realidades no ser humano, as quais não podem ser divididas ou separadas
   * corpo -> alma
@@ -43,9 +46,9 @@ tags: [Mons. Álvares Negromonte]
   * vida transitória -> vida eterna
   * natureza -> graça
 * Temos que lembrar que o resto nos será dado por acréscimo
-* imperfeição -> perfeição
+  * imperfeição -> perfeição
 * Devemos buscar a liberdade interior, como Santa Tereza coloca: a alma deve subjugar o corpo. Essa é a primeira grande conquista da educação
-* Inteligência que orienta a vontade
+  * Inteligência que orienta a vontade
 * A formação intelectual é o que nos traz a capacidade julgar
 * Formação Integral - Objetivos:
   * físico: saúde e robustez
@@ -70,5 +73,3 @@ tags: [Mons. Álvares Negromonte]
   * O conhecimento aprofundado, nos leva à convicção, que nos permite trabalhar a vontade, e chegar à prática
 * E com isso chegar à liberdade interna, ao domínio das paixões, que devem ser utilizadas como energia para as virtudes
 * As correntes ideológicas de hoje, ou anulam as paixões (comunismo) ou as liberam (liberalismo)
-
-#### Livro: A Educação dos Filhos (1961) - Mons. Álvares Negromonte ####

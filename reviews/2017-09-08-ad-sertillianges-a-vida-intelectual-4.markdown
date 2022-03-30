@@ -5,7 +5,10 @@ date: 2017-09-08 20:59:00 +0300
 description: 
 img: ads-avi04.jpg
 fig-caption: 
-tags: [AD Sertillanges]
+tags: [Educação]
+work-title: A Vida Intelectual
+author: AD Sertillanges
+publishing-year: 1921
 ---
 
 I - Simplificar

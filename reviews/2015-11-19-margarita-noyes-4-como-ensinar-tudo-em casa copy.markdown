@@ -5,7 +5,10 @@ date: 2015-11-19 20:23:00 +0300
 description: 
 img: mnhs04.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * A base inicial do aprendizado é os 3 Rs
@@ -36,5 +39,3 @@ tags: [Margarita Noyes]
 * 16'50 - O tédio era como uma ofensa punível com trabalhos domésticos, tédio era como um crime nada casa da Margarita, e as crianças aprenderam rapidamente que tédio era sinônimo de trabalho
 * 18'40 - Algumas mães acreditam que entretenimento é o remédio para o tédio, porém é justamente o oposto. Muito entretenimento é a causa do tédio. Tentar impor entretenimento para uma criança entediada a deixará ainda mais entediada e com preguiça. Muito entretenimento (do tipo entretenimento por entretenimento, entretenimento improdutivo) atrofia a capacidade da criança de entreter-se a si mesma. Este tipo de entretenimento  gera crianças passiva.
 * 19'42 - Um exemplo desta situação citado pela Margarita, é o caso de uma ideia engenhosa de uma colega dela, a "caixa do tédio", onde toda a vez que a criança reclamasse de tédio, lhe sugerida que sorteasse na caixa um entretenimento para fazer. O problema é que a preguiça e o tédio andam juntas, oferecer entretenimento para uma criança entediada despertará nela o sentimento de preguiça. O que a Margarita sugere, é substituir a caixa com opções de entretenimento por uma caixa opções com tarefas. Fazendo tarefas de casa a criança aprende a valorizar as atividades de aprendizado. Um ponto importante é nunca aceitar desculpas para a realização das tarefas, a criança tem que criar a consciência que ela terá que fazer, se não tudo estará perdido. Outro ponto muito considerado pelas famílias homeschoolers, é que toda a tarefa executada pelas crianças deve ser verificada, para garantir que a criança fez e se o fez direito.
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

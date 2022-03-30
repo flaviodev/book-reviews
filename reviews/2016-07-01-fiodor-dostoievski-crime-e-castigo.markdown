@@ -5,7 +5,10 @@ date: 2016-07-01 21:12:00 +0300
 description: 
 img: fd-cc.jpg
 fig-caption: 
-tags: [Fiódor Dostoiévski]
+tags: [Literatura, Literatura Russa]
+work-title: Crime e Castigo
+author: Fiódor Dostoiévski
+publishing-year: 1866
 ---
  
 ## Personagens:

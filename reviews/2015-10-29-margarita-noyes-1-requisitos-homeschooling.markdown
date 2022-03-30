@@ -5,7 +5,10 @@ date: 2015-10-29 23:45:00 +0300
 description: 
 img: mnhs01.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 Esta séria de transcrições correspondem a um programa de entrevistas com a americana Margarita Noyes que, relata a experiência de ter criado os quatro filhos em casa. A entrevista é guiada pela brasileira Mariana Discacciati que faz as traduções simultâneas ao longo das entrevistas. As transcrições seguem na ordem cronológica das entrevistas, inclusive com referências ao intervalo de tempo correspondente à citação, para possíveis consultas posteriores, sendo que ao final de cada transcrição haverá um resumo por tópicos.
@@ -48,5 +51,3 @@ Esta séria de transcrições correspondem a um programa de entrevistas com a am
 * 22'30 - Os pais que fazem homeschooling geralmente batem mais nos filhos do que os demais pais
 * 22'48 - O resultado é que as crianças, são extremamente ordenadas e respeitosas
 * 23'46 - Usar o mínimo de força, usar somente quando a criança se rebela contra você, não quando ela comete um erro, ou quando falta pouco pra fazer o certo e só quando pequenos. É preciso impor que você deve ser obedecido logo na primeira vez que solicitado
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

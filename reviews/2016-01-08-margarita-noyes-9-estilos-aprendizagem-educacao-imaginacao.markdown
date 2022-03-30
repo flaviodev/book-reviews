@@ -5,7 +5,10 @@ date: 2016-01-08 19:32:00 +0300
 description: 
 img: mnhs09.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * Estilos de aprendizagem: Sinestésico, auditivo e visual. Sendo de suma importância tentar identificar o estilo predominando de cada filho
@@ -56,5 +59,3 @@ tags: [Margarita Noyes]
 * 23'00 - Os pais hoje se preocupam somente com o desenvolvimento da habilidade da leitura em si, e se esquecem do principal propósito que é alimentação da alma dos filhos. É o conteúdo dado na infância que alimenta a alma da criança e determina o adulto que ela irá se tornar
 * 24'10 - Não devemos contar histórias que a gente também não aprecia, as histórias tem que ser interessantes para os pais também.
 * 24'50 - Pois as crianças gostam de ouvir várias vezes a mesma história, o que implica no fato que você não precisa ter muitos livros, mas sim poucos com boas histórias
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

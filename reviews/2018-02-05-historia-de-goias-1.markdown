@@ -6,6 +6,9 @@ description:
 img: hg-1.jpg
 fig-caption: 
 tags: [História]
+work-title: História de Goiás
+author: 
+publishing-year: 
 ---
 
 * Goiás não foi "descoberto" por Anhanguera, pois as bandeiras já conheciam o estado

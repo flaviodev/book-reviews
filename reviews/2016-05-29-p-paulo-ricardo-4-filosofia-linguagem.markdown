@@ -5,7 +5,10 @@ date: 2016-05-29 20:34:00 +0300
 description: 
 img: ppr-fl04.jpg
 fig-caption: 
-tags: [Padre Paulo Ricardo]
+tags: [Filosofia]
+work-title: Filosofia da Linguagem
+author: Padre Paulo Ricardo
+publishing-year: 2012
 ---
 
 * Continuando com a abordagem fenomenológica, é importante ressaltar que não se deve confundir Edmund Husserl com Bertrand Russell (ou muito menos com Jean-Jacques Rousseau)

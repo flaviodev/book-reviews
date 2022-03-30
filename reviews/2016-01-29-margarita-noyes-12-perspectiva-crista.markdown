@@ -5,7 +5,10 @@ date: 2016-01-29 20:12:00 +0300
 description: 
 img: mnhs12.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * Importância da criação dos filhos sob uma perspectiva cristã
@@ -72,5 +75,3 @@ tags: [Margarita Noyes]
 * 26'00 - A Margarita não está dizendo que não há personalidade envolvida, que se uma criança é má, os pais são inteiramente culpados, mas que o estilo de criar os filhos tem um enorme impacto em quem o seu filho se torna
 * 26'30 - Assim como o jeito que você cuida da sua fazenda, ou do seu jardim tem o maior impacto, na questão de colheita e produção
 * 27'30 - Os pais precisam se educar primeiro, mudar o seu comportamento primeiro. Os pais devem ler livros sobre como criar filhos, antes mesmo de ter filhos, é basicamente a questão do exemplo, os pais precisam programar a vida e adequar o comportamento para antes mesmo que se ensine os filhos. Não há como criar filhos piedosos e éticos se os pais não são piedosos e éticos
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

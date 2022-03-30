@@ -5,7 +5,10 @@ date: 2016-01-22 21:22:00 +0300
 description: 
 img: mnhs11.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * A maior motivação para o homeschooling é a promoção de valores morais
@@ -67,5 +70,3 @@ tags: [Margarita Noyes]
 * 26'25 - E seus filhos irão acreditar que o jeito com que sua família faz as coisas é o jeito certo de fazer as coisas
 * 27'00 - As crianças se sentem seguras quando dizem: A nossa família sempre janta junto todas as noites, a nossa vai à igreja todos os domingos, nossa família tem peixe às sextas-feiras, e depois uma noite de jogos. Isso faz da família única e faz com que a criança se sinta inserida num grupo
 * 27'30 - Então eles não sentem a necessidade de participar desses grupos negativos fora de casa 
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

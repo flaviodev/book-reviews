@@ -5,7 +5,10 @@ date: 2017-09-25 21:34:00 +0300
 description: 
 img: ads-avi04.jpg
 fig-caption: 
-tags: [AD Sertillanges]
+tags: [Educação]
+work-title: A Vida Intelectual
+author: AD Sertillanges
+publishing-year: 1921
 ---
 
 IV - Cultivar as relações necessárias

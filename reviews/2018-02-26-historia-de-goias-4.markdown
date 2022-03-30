@@ -6,6 +6,9 @@ description:
 img: hg-4.jpeg
 fig-caption: 
 tags: [História]
+work-title: História de Goiás
+author: 
+publishing-year: 
 ---
 
 * No ciclo da cana, Pernambuco é o destaque econômico e a Bahia o centro político

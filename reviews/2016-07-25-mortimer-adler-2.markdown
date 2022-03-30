@@ -5,7 +5,10 @@ date: 2016-07-25 23:12:00 +0300
 description: 
 img: ma-cll02.jpg
 fig-caption: 
-tags: [Mortimer J. Adler]
+tags: [Educação]
+work-title: Como Ler Livros
+author: Mortimer J. Adler
+publishing-year: 1940
 ---
 
 * Dentre as apresentações do autor estão a definição do que é leitura, a classificação da ação de ler não como uma atividade passiva, mas sim como um habilidade a ser desenvolvida

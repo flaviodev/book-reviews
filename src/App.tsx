@@ -17,7 +17,7 @@ export const App = () => {
       <HashRouter>
         <NavBar />
         <Routes>
-          <Route path="/" element={<HomePage />} />
+          <Route path="/" element={<HomePage reviewService={service} />} />
           <Route
             path="/review"
             element={<ReviewsList reviewService={service} />}

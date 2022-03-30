@@ -6,6 +6,9 @@ description:
 img: hg-2.jpg
 fig-caption: 
 tags: [História]
+work-title: História de Goiás
+author: 
+publishing-year: 
 ---
 
 Resumo por marcos históricos

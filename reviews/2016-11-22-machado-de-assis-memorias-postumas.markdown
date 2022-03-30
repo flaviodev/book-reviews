@@ -5,7 +5,10 @@ date: 2016-11-22 21:08:00 +0300
 description: 
 img: ma-mpbc.jpg
 fig-caption: 
-tags: [Machado de Assis]
+tags: [Literatura, Literatura Brasileira]
+work-title: Memórias Póstumas de Brás Cubas
+author: Machado de Assis
+publishing-year: 1881
 ---
 
 * Machado expõe a mediocridade de uma sociedade 

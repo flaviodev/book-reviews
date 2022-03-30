@@ -5,7 +5,10 @@ date: 2016-06-13 22:32:00 +0300
 description: 
 img: ppr-fl06.jpg
 fig-caption: 
-tags: [Padre Paulo Ricardo]
+tags: [Filosofia]
+work-title: Filosofia da Linguagem
+author: Padre Paulo Ricardo
+publishing-year: 2012
 ---
 
 * Conforme exposto anteriormente, a linguagem poética concentra elementos da linguagem propriamente humana, as quais os demais animais não possuem. Sendo acrescentado que, o discurso poético tem por maior importância, a função da participação do homem por meio da linguagem como co-criador de Deus.

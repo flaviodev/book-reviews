@@ -5,7 +5,10 @@ date: 2016-08-02 19:55:00 +0300
 description: 
 img: ma-cll03.jpg
 fig-caption: 
-tags: [Mortimer J. Adler]
+tags: [Educação]
+work-title: Como Ler Livros
+author: Mortimer J. Adler
+publishing-year: 1940
 ---
 
 * Primeira Leitura: Analítica

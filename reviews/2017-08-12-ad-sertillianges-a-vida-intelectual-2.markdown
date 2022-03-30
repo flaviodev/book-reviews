@@ -5,7 +5,10 @@ date: 2017-08-12 22:23:00 +0300
 description: 
 img: ads-avi02.jpg
 fig-caption: 
-tags: [AD Sertillanges]
+tags: [Educação]
+work-title: A Vida Intelectual
+author: AD Sertillanges
+publishing-year: 1921
 ---
 
  I - As virtudes comuns

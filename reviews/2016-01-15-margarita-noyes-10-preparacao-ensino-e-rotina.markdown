@@ -5,7 +5,10 @@ date: 2016-01-15 20:09:00 +0300
 description: 
 img: mnhs10.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * Se desfazer se possível de televisão e outros meios que roubam seu tempo
@@ -59,5 +62,3 @@ tags: [Margarita Noyes]
 * 23'55 - Ela percebeu que os trabalhos não ficavam bom e quando ela começou a exigir a disciplina, de arrumar o quarto, o cabelo e o uniforme, de repente o trabalho melhorou drasticamente
 * 24'40 - A regra era, eles não poderiam tirar os uniformes e colocar as roupas de brincar enquanto não terminassem as tarefas diárias
 * 24'50 - E ficava bem claro para eles a hora do estudo e a  hora de brincadeira
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

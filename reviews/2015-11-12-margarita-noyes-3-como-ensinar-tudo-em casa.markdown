@@ -5,7 +5,10 @@ date: 2015-11-12 15:11:00 +0300
 description: 
 img: mnhs03.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * Os pais não precisam conhecer todo o conteúdo de um só vez. Comece do começo, e crie uma rotina para uma evolução diária
@@ -37,6 +40,3 @@ tags: [Margarita Noyes]
 * 17'35 - Como guiar os filhos por áreas que os pais não conhecem? Em um primeiro momento ela buscou catálogos homeschooling
 * 18'10 - Ela comprava bons livros, bons recursos e ia à biblioteca
 * 18'50 - Ela buscava também por oportunidades de inserção do convívio dos filhos com pessoas que eram especialistas em suas áreas de interesse. Como aulas de arte para a filha mais velha, ou um homem que reformava casas, pois um dos seus filhos tinha grande interesse por construção. Não precisa ser necessariamente os pais a ensinar
-
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

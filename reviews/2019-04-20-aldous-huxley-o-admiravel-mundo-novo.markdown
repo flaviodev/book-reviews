@@ -5,7 +5,10 @@ date: 2019-04-20 20:12:00 +0300
 description: 
 img: ah-amn.jpg
 fig-caption: 
-tags: [Aldous Huxley]
+tags: [Literatura]
+work-title: O Admirável Mundo Novo
+author: Aldous Huxley
+publishing-year: 1932
 ---
 
 * O livro tem um aspecto documental

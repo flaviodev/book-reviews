@@ -5,7 +5,10 @@ date: 2015-12-03 19:33:00 +0300
 description: 
 img: mnhs06.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * As pessoas têm um conceito equivocado de socialização
@@ -55,5 +58,3 @@ tags: [Margarita Noyes]
 * 18'40 - A maneira como Deus criou a família é o modo ideal de socialização para uma criança
 * 20'24 - Nos Estados Unidos as crianças são muito mal socializadas, pois na escola s crianças geralmente só querem conviver com crianças da mesma idade. São crianças que não conseguem ficar sozinhas, não querem estar junto com os pais ou outro adultos e nutrem uma necessidade enorme de estar com os colegas da mesma idade o tempo todo
 * 21'15 - Já as crianças no homeschooling por terem uma socialização melhor tendem a amadurecer mais cedo
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

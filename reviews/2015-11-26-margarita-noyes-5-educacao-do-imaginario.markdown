@@ -5,7 +5,10 @@ date: 2015-11-26 19:11:00 +0300
 description: 
 img: mnhs05.jpeg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * Estimular e desenvolver a imaginação e criatividade (educação do imaginário)
@@ -31,5 +34,3 @@ tags: [Margarita Noyes]
 * 12'00 - É preciso desafiar os filhos, pois criar filhos não é uma ciência, mas sim uma arte, é necessário o uso da intuição do que é o melhor para o seu filho, para isso é essencial elaborar um bom sistema. Na casa da Margarita sempre tiveram excelentes materiais de aprendizado, e a garantia de não haver entretenimento improdutivo, onde conforme citado anteriormente, os filhos sabiam que tinha escolha, ou faziam atividades que produzissem aprendizado ou atividades domésticas. Porque algumas crianças choram quando as mães tentam ensinar alguma coisa?
 * 17'00 - Primeiro é preciso considerar que o intervalo de faixas etárias para determinados aprendizados pode variar muito, ou seja, uma criança normal pode aprender a ler com 2 ou 3 anos ou até os 12 anos, não uma data fixa isso pode variar de criança para criança
 * 18'29 - Agora se você força uma criança a algo que ela não está preparada é evidente que haverá uma reação, por isso é de fundamental importância os pais desenvolverem uma espécie de extinto intuitivo para avaliar e refletir se a criança está sendo indisciplinada ou se trata-se de algum problema no aprendizado. Três dos quatro filhos da Margarita tiveram dificuldades de aprendizado e desenvolveram problemas disciplinares. Em casa é mais fácil identificar o problema e corrigi-los por meio de técnicas individualizadas que fazem uso das habilidades da criança promovendo assim além do aprendizado a geração de auto-estima, o que será ótimo e crucial para ela na idade adulta
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

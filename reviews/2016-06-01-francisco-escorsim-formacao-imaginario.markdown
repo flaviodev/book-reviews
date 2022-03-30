@@ -5,7 +5,10 @@ date: 2016-06-01 18:56:00 +0300
 description: 
 img: fe-fi.jpg
 fig-caption: 
-tags: [Francisco Escorsim]
+tags: [Educação]
+work-title: Formação do Imaginário
+author: Francisco Escorsim
+publishing-year: 2015
 ---
 
 

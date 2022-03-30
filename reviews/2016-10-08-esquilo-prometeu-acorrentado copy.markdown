@@ -5,7 +5,10 @@ date: 2016-10-08 21:23:00 +0300
 description: 
 img: e-pa.jpg
 fig-caption: 
-tags: [Ésquilo]
+tags: [Literatura, Mitologia Grega]
+work-title: Prometeu Acorrentado
+author: Ésquilo
+publishing-year: 424 AC
 ---
 
  * Hefesto recebe a ordem de Poder para acorrentar e torturar Prometeu

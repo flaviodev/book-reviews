@@ -5,7 +5,10 @@ date: 2015-12-17 22:12:00 +0300
 description: 
 img: mnhs08.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * Em um breve resumo as dificuldades de cada um dos filhos da Margarita:
@@ -68,5 +71,3 @@ tags: [Margarita Noyes]
 * 20'00 - E ele também não aprendeu a ler até completar onze ou doze anos de idade, e o que lhe ajudou foi a família ter pago uma terapia
 * 20'35 - Mas apesar dessas dificuldades, provavelmente a inteligência de Tobby é tão grande até mesmo maior que qualquer um da sua família, e ele aprendeu muito ouvindo fitas e ouvindo seus irmãos mais velhos
 * 21'00 - E agora provavelmente ele irá se tornar um advogado, ele é extremamente inteligente e talentoso como escritor. Esses são os quatros filhos da Margarita e o que ela fez com eles
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

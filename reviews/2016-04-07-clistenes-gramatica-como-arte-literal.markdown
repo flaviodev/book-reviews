@@ -5,7 +5,10 @@ date: 2016-04-07 20:21:00 +0300
 description: 
 img: c-gal.jpg
 fig-caption: 
-tags: [Confraria das Artes Liberais]
+tags: [Educação]
+work-title: Gramática como Arte Liberal
+author: Clístenes Hafner Fernandes
+publishing-year: 2014
 ---
 
  * Segundo o General Charles de Gaulle, o Brasil não pode ser levado a sério. Pois para ele uma nação deve ser avaliada pela a sua língua, sua religião e sua alta-cultura. Bem como, pela forma que essa nação trata e valoriza esses tópicos.
@@ -28,5 +31,3 @@ Tópicos principais resumidos:
     * Perca do uso das funções sintáticas básicas da linguagem que gera um efeito em cascata devastador
     * Dificuldade de aprendizado de outras línguas
     * Necessidade de outras línguas para obter acesso a outras fontes de obras literárias
-
-#### Fonte: Civilização Ocidental - Professor Clístenes

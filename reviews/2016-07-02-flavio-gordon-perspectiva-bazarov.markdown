@@ -5,7 +5,10 @@ date: 2016-07-02 20:34:00 +0300
 description: 
 img: fg-pb.jpg
 fig-caption: 
-tags: [Flávio Gordon]
+tags: [Educação]
+work-title: Perspectiva Bazárov
+author: Flávio Gordon
+publishing-year: 2016
 ---
 
 "A educação dos filhos interessa mais ao estado que aos pais." Jean Jacques-Rousseau

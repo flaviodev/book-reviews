@@ -5,7 +5,10 @@ date: 2016-09-19 22:59:00 +0300
 description: 
 img: ma-cll07.jpg
 fig-caption: 
-tags: [Mortimer J. Adler]
+tags: [Educação]
+work-title: Como Ler Livros
+author: Mortimer J. Adler
+publishing-year: 1940
 ---
 
 Resumo da Análise de Leitura de um Livro para Compreensão

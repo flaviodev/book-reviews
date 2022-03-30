@@ -5,7 +5,10 @@ date: 2015-11-05 13:00:00 +0300
 description: 
 img: mnhs02.jpg
 fig-caption: 
-tags: [Margarita Noyes]
+tags: [Educação]
+work-title: On Homeschooling
+author: Margarita Noyes
+publishing-year: 2012
 ---
 
 * Medo inicial de  que os filhos sofram de solidão e tédio, que é posteriormente não confirmado
@@ -37,5 +40,3 @@ tags: [Margarita Noyes]
 * 22'00 - Algumas crianças se dão bem nas escolas públicas americanas, porém correm um risco muito grande. O que dependerá e muito da qualidade da educação vivenciada em casa.
 * 23'40 - Porém, na escola há uma grande chance de seus filhos terem amigos que destruam o futuro deles. Nos Estados Unidos já foram perdidas duas gerações, o homeschooling é a esperança para a América
 * 25'00 - Nos Estados Unidos as pessoas melhores educadas e que se tornaram pessoas equilibradas são advindas do homeschooling
-
-#### Fonte: Margarita Noyes on Homeschooling, com tradução simultânea de Mariana Discacciati

@@ -5,7 +5,10 @@ date: 2017-01-23 20:21:00 +0300
 description: 
 img: ma-r.jpg
 fig-caption: 
-tags: [Machado de Assis]
+tags: [Literatura, Literatura Brasileira]
+work-title: A Ressuição
+author: Machado de Assis
+publishing-year: 1872
 ---
 
 * A narrativa parece ser em terceira pessoa e de certo modo desinteressada 

@@ -5,7 +5,10 @@ date: 2017-04-03 20:21:00 +0300
 description: 
 img: ma-ml.jpg
 fig-caption: 
-tags: [Machado de Assis]
+tags: [Literatura, Literatura Brasileira]
+work-title: A Mão e a Luva
+author: Machado de Assis
+publishing-year: 1874
 ---
 
 * O livro que segue o romance a mão e a luva é considerado pelo próprio autor, como o romance que ele mais gostou de escrever
