@@ -20,13 +20,13 @@ const HomeListItem = (props: Props) => {
           <Link to={`/review/${review.name}`}>
             <div className="flex flex-nowrap">
               <img
-                className="bg-cover bg-center w-32 h-16"
+                className="bg-cover bg-center w-28 h-16"
                 src={review.image}
               />
               <div>
                 <h2 className="ml-3 font-semibold text-base">{review.workTitle}</h2>
                 <h2 className="ml-3 text-xs">{review.author}</h2>
-                <h2 className="ml-3 text-xs">{format(new Date(review.date), DATE_FORMAT)}</h2>
+                <h2 className="ml-3 text-gray-400 text-xs">{format(new Date(review.date), DATE_FORMAT)}</h2>
               </div>
             </div>
           </Link>
