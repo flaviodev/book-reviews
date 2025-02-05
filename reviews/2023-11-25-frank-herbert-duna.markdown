@@ -59,3 +59,163 @@ A ascensão de Paul ao trono marca o início de uma nova era para o universo con
 Porém, a visão de Paul não é isenta de sombras. Ele é constantemente atormentado pelas visões de uma jihad galáctica que poderia ocorrer em seu nome. Essas visões servem como um lembrete do perigo do fanatismo e da responsabilidade que vem com o poder. Ele luta para equilibrar seu papel como líder com sua consciência, tentando evitar que o futuro se transforme em um pesadelo de destruição.
 
 Assim, Duna não é apenas uma obra de ficção científica; é um épico que explora as complexidades do poder, da fé e do destino. A narrativa é um convite para refletir sobre os valores que sustentam as grandes civilizações e sobre os desafios que acompanham a liderança verdadeira. Paul Atreides, com sua força, coragem e visão, é mais do que um personagem; ele é um símbolo do que é possível quando a grandeza humana encontra seu propósito.
+
+### Principais Eventos
+
+#### Duna
+
+Paul Atreides é testado pela Reverenda Madre com o gom jabbar, demonstrando autocontrole extremo.
+
+Lady Jessica reflete sobre a linhagem de Paul e sua possível conexão com a profecia Bene Gesserit.
+
+O duque Leto Atreides recebe a ordem imperial para assumir o controle de Arrakis, um movimento político arriscado.
+
+Paul estuda as peculiaridades de Arrakis e dos Fremen usando materiais educativos.
+
+Leto reconhece sinais de uma armadilha imperial planejada pelos Harkonnen.
+
+Duncan Idaho retorna com informações sobre os Fremen, destacando sua força e resiliência.
+
+Thufir Hawat alerta para possíveis conspirações contra os Atreides dentro da corte imperial.
+
+O médico Wellington Yueh luta contra sua lealdade devido ao sequestro de sua esposa pelos Harkonnen.
+
+Paul encontra o planetólogo Dr. Kynes, que explica a ecologia de Arrakis e o papel vital da especiaria.
+
+Os Atreides desembarcam em Arrakis sob vigilância constante e um clima de tensão crescente.
+
+Paul percebe a complexidade política que envolve a especiaria e as disputas entre as grandes Casas.
+
+Leto organiza patrulhas para proteger os equipamentos de extração de especiarias.
+
+Jessica sente hostilidade velada de membros da corte Atreides em Arrakis.
+
+Yueh, manipulado pelos Harkonnen, começa a planejar sua traição contra os Atreides.
+
+Leto tenta estabelecer alianças com os Fremen, reconhecendo seu potencial estratégico.
+
+Paul e Leto testemunham um ataque de verme-da-areia durante a extração de especiarias, reforçando o perigo do planeta.
+
+Kynes fica intrigado com as habilidades intuitivas de Paul ao reagir ao ambiente hostil.
+
+Yueh sabota os sistemas de defesa da fortaleza Atreides, permitindo o ataque dos Harkonnen.
+
+As forças Harkonnen, com apoio dos Sardaukar, lançam um ataque devastador.
+
+Paul e Jessica são capturados, mas Yueh garante sua fuga como parte de sua traição complexa.
+
+O Duque Leto é levado ao Barão Harkonnen e sacrifica sua vida em uma tentativa falha de assassinato com veneno.
+
+Paul e Jessica escapam no deserto usando um ornitóptero roubado.
+
+Paul experimenta visões intensas sobre o futuro, o jihad e sua conexão com Arrakis.
+
+Jessica usa habilidades Bene Gesserit para subjugar um grupo de capturadores Fremen.
+
+Stilgar, líder de um sietch Fremen, reconhece Jessica como uma Reverenda Madre potencial.
+
+Paul enfrenta Jamis em um duelo e o mata, solidificando sua aceitação entre os Fremen.
+
+Paul adota o nome "Muad’Dib", marcando sua integração com o povo Fremen.
+
+Jessica é aceita no sietch e começa a preparar-se para o ritual da água da vida.
+
+Paul começa a compreender a amplitude de suas visões e sua ligação com a profecia Fremen.
+
+Stilgar reforça a lealdade dos Fremen à família Atreides.
+
+#### Muad’Dib
+
+Paul aprende a montar vermes-da-areia, dominando uma habilidade essencial dos Fremen.
+
+Os Fremen compartilham segredos sobre coleta e preservação de água em Arrakis.
+
+Paul começa a planejar ataques contra as operações de especiaria dos Harkonnen.
+
+Jessica consome a água da vida, sobrevivendo à transformação e tornando-se uma Reverenda Madre.
+
+Paul percebe como os Fremen o veem como o Mahdi, o messias profetizado.
+
+Chani, filha de Liet-Kynes, torna-se sua companheira e conselheira.
+
+Stilgar ensina a Paul os valores e a filosofia dos Fremen, aprofundando sua liderança.
+
+Sardaukar invadem uma sietch, mas Paul lidera uma emboscada bem-sucedida.
+
+Paul experimenta visões mais detalhadas do jihad galáctico conduzido em seu nome.
+
+A resistência Fremen se intensifica com ataques às rotas de especiaria controladas pelos Harkonnen.
+
+Stilgar e os Fremen começam a reverenciar Paul como líder messiânico.
+
+O Barão Harkonnen tenta consolidar o poder manipulando Feyd-Rautha como seu sucessor.
+
+Paul planeja usar vermes-da-areia para vantagem militar contra as forças imperiais.
+
+Rabban, o "Carniceiro de Arrakis", intensifica a exploração e opressão dos Fremen.
+
+Paul desenvolve estratégias para manipular suas visões em favor de sua causa.
+
+A Guilda Espacial alerta o Imperador sobre a crescente ameaça Fremen.
+
+Jessica dá à luz Alia, uma criança com consciência pré-natal.
+
+Paul desafia tradições Fremen, consolidando sua autoridade como líder supremo.
+
+Os Fremen iniciam projetos de longo prazo para transformar Arrakis em um planeta mais verde.
+
+Paul reforça sua determinação de enfrentar o Imperador diretamente.
+
+#### O Profeta
+
+Paul lidera ataques decisivos contra as forças Harkonnen, ganhando território e influência.
+
+O Imperador Shaddam IV mobiliza tropas Sardaukar para sufocar a revolta Fremen.
+
+Os Fremen derrotam Sardaukar em combate direto, demonstrando sua superioridade.
+
+Alia, ainda criança, exibe habilidades e conhecimento assustadores.
+
+Paul descobre o papel da Guilda Espacial na conspiração contra sua família.
+
+Naves imperiais chegam a Arrakis, aumentando a tensão na guerra.
+
+Paul toma o controle total da produção de especiarias, ameaçando a economia do Império.
+
+Chani incentiva Paul a aceitar plenamente seu destino como Muad’Dib.
+
+Stilgar lidera uma operação para sabotar as forças Sardaukar estacionadas.
+
+Paul vislumbra a vitória final e os sacrifícios necessários para alcançá-la.
+
+Paul comanda um ataque massivo contra Arrakeen, a capital de Arrakis.
+
+Os Harkonnen são derrotados, e Rabban é morto por Fremen enfurecidos.
+
+Alia mata o Barão Harkonnen usando uma arma secreta com veneno.
+
+Paul confronta o Imperador em seu trono e exige sua abdicação.
+
+Paul ameaça destruir a especiaria se suas exigências não forem atendidas.
+
+A Guilda Espacial cede à pressão de Paul, temendo o colapso de seu monopólio.
+
+Feyd-Rautha desafia Paul para um duelo ritual, mas é derrotado.
+
+Paul assume o trono imperial, encerrando a luta pela sobrevivência dos Atreides.
+
+Jessica opta por retornar à ordem Bene Gesserit, deixando Arrakis.
+
+Paul percebe que, apesar da vitória, não pode impedir o jihad que está por vir.
+
+Stilgar inicia reformas para a transformação ecológica de Arrakis.
+
+Paul e Chani refletem sobre as consequências do destino profético.
+
+Alia é reconhecida como uma nova Reverenda Madre, combinando poderes únicos.
+
+O jihad fremen começa, espalhando guerra e caos pelo universo.
+
+Paul aceita o peso de suas decisões como imperador e profeta.
+
+Arrakis, agora epicentro do Império, torna-se símbolo de transformação e sacrifício.
