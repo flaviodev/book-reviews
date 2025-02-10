@@ -1,7 +1,7 @@
 ---
 layout: post
 title: História de Portugal
-date: 2023-11-25 21:20:00 +0300
+date: 2025-02-05 21:20:00 +0300
 description: Das origens até 1940
 img: ja-hp3.png
 fig-caption: 
