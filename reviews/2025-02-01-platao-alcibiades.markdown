@@ -3,7 +3,7 @@ layout: post
 title: Alcibíades
 date: 20253-02-01 18:20:00 +0300
 description: 
-img: db-alcibiades.png
+img: dp-alcibiades.png
 fig-caption: 
 tags: [Diálogos]
 work-title: Alcibíades
