@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/book-reviews/static/css/main.784eff23.css",
-    "main.js": "/book-reviews/static/js/main.aaf137d7.js",
+    "main.js": "/book-reviews/static/js/main.9bbfc6a5.js",
     "index.html": "/book-reviews/index.html",
     "main.784eff23.css.map": "/book-reviews/static/css/main.784eff23.css.map",
-    "main.aaf137d7.js.map": "/book-reviews/static/js/main.aaf137d7.js.map"
+    "main.9bbfc6a5.js.map": "/book-reviews/static/js/main.9bbfc6a5.js.map"
   },
   "entrypoints": [
     "static/css/main.784eff23.css",
-    "static/js/main.aaf137d7.js"
+    "static/js/main.9bbfc6a5.js"
   ]
 }
