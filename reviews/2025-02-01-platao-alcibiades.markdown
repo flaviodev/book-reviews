@@ -8,7 +8,7 @@ fig-caption:
 tags: [Diálogos]
 work-title: Alcibíades
 author: Platão
-publishing-year: 1941
+publishing-year: Séc V a.C.
 ---
 
 * Sócrates é o único que não Abandona Alcibíades por conta de seu orgulho
@@ -31,4 +31,31 @@ publishing-year: 1941
 * lacedônios = spartanos
 * conhecer é conhecer o mecanismo conhecedor = inteligência
 
+*10 de fevereiro de 2025*
+
+* Embora A tivesse sua pessoa em alta conta, devido ao seu orgulho, vaidade e alta posição, concorda que não poderia dar conselhos sobre coisas que não dominava, e que ele agora reconhecia que não dominaa
+* Concordava que não era vergonhoso não poder aconselhar sobre algo que não se professava conhecimento, mas que era altamente vergonhoso querer aconselhar sem nada saber do assunto que professar ser grande conhecedor
+* S tenta mostrar que ele só julgava ter o conhecimento por se sentir extremamente importante
+* S questiona a A sobre uma explicação em relação à guerra levada contra o adversário correto, quais seriam as questões alegadas para justificar o combate? 
+* A reconhece que em cada caso pode-se proceder de forma justa ou injusta, e que a diferença pode ser enorme
+* E S deixa A muito confuso e desconfortável quando demonstra que ele nunca teve consciência do desconhecimento sobre as questões disticutidas até então, que se em nenhum momento houve tal percepção de ignorância, não foi possível buscar o conhecimento pelo o qual não se dava por falta, em se tratando principalmente de um assunto elementar para alguém que se julgava o conselheiro dos atenienses sobre o assunto
+* mesmo assim, para não se dar por vencido A tentar argumentar se ele não poderia ter aprendido sobre justo e injusto de outra forma, que fosse com um professor
+* Mesma alegando que A nunca deu por falta de tais conhecimentos, não seria possível buscá-los, S tenta demonstrar o erro de outro modo. Faz com que A recue no passado até se recordar de lembranças da infância que remetessem a experiências de justo e injusto nas brincadeiras de crianças
+* E após A ter trazido tais lembraças S demonstra a A que ele não aprendeu nem descobriu por si mesmo, e indaga de onde ele obteve o conhecimento
+* Então A diz que aprendeu de todos, e S diz que desse modo voltariam ao ponto de partida
+* S refuta a possibilidade de se aprender com todos, pois essa depende do consenso de todos, e em termos de justo e injusto, isso não é possível
+* E numa argumentação genial S faz A reconhecer que não foi S que disse que ele não aprendeu, mas sim ele mesmo. Que ele mesmo que respondeu todas as perguntas, e que ele mesmo disse que não sabia
+* A assume que ignorava a natureza do justo e do injusto, mas presumia conhecê-la, e que pretendia apresentar-se na assembléia de atenienses e aconselhar-lhes sobre questões que ele nada sabia
+* Mas A não se dá por vencido mais uma vez, e toca no ponto de que a naturaza do justo e injusto seria algo evidente
+* S demonstra que não há como ser evidente e que justo não é o mesmo que vantajoso, como a conclusão de A deixava parecer
+* A vendo-se equivocado novamente tenta reiniciar a discução usando os mesmos argumentos, ao que S lhe faz grave advertência de que não poderia trajar os mesmos argumentos com novas roupagens. e questiona se A sabe que é útil
+* logo já encurtanto os termos diz que não possível ao A dizer que aprendeu de professor, de si ou de todos
+* e previnindo mais delongas pergunta a A se o justo e o útil são idênticos
+* A titubia e S o desafia a explicar-lhe como se fosse à assembléia, e ainda argumenta sobre as desculpas inseguras de A, de que o orador pode convencer a muitos ou a somente um, se ele conhece do assunto
+* E assim S desafia-o e A o chama de violento
+* Ao que S responde forma firma: só por violência vou provar-te o contrário daquilo que não quiseste demnonstrar-me (que A não sabe)
+* E S discorre uma série de sentenças correlacionando a beleza e a justiça, onde não há como cometer uma ação feia porém justa, onde o belo é bom e feio é mau, coragem - vida, covardia - morte
+* e conclui que uma ação que produz o mal é uma ação má, uma ação que produz o bem é boa
+* e conclui em seguida que nada que é belo, enquanto belo, é mau, e só se possui o bem quem age de modo belo e bom 
+* Nisso se completa a aporia de A, que demonstra extrema confusão, e diz nada saber
 
