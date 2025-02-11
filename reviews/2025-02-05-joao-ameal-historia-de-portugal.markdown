@@ -22,3 +22,11 @@ Lendas sobre os povos originários de Portugal:
 
 Sabe-se que a terra foi de fato povoada por Celtas, sendo também visitada pelos Fenícios, que exploravam o outro que havia em abundância, bem como, acabaram depois criando feitorias e diversos entrepostos na península. Foram que os Fenícios que inicialmente chamaram a terra de Spania, onde span pode significar coelho ou oculto. Sendo mais crível aplicar a segunda acepção, onde os Fenícios queriam dar a crer que era uma terra oculta, para não despertar o interesse de possíveis concorrentes.
 
+*10 de fevereiro de 2025*
+
+* Colunas de Hércules = Estreito de Gibraltar
+* Gregos: Spania dos Fenícios ou Hesperia (Hesper = Ocidente)
+* Ibéria: Talvez do Rio Íberis
+* Em 574 Nabucodonosor destroi Tiro e Cartago assume a hegemonia na Feníncia, e consequentemente o domínio da península Ibérica
+* O domínio cartagenense é sucedido pela Sicília na primeira guerra Púnica (Púnicos = Cartagenenses)
+* Após a segunda e terceira guerras púnicas Cartago sucumbe, e Roma conquista a península Ibérica
