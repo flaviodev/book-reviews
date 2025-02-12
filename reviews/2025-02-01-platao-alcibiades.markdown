@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alcibíades
-date: 20253-02-01 18:20:00 +0300
+date: 2025-02-01 18:20:00 +0300
 description: 
 img: dp-alcibiades.png
 fig-caption: 

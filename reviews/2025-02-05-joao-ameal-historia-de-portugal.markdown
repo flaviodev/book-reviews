@@ -2,7 +2,7 @@
 layout: post
 title: História de Portugal
 date: 2025-02-05 21:20:00 +0300
-description: Das origens até 1940
+description: Introdução - Mistério das Nascentes
 img: ja-hp3.png
 fig-caption: 
 tags: [História]
@@ -30,3 +30,23 @@ Sabe-se que a terra foi de fato povoada por Celtas, sendo também visitada pelos
 * Em 574 Nabucodonosor destroi Tiro e Cartago assume a hegemonia na Feníncia, e consequentemente o domínio da península Ibérica
 * O domínio cartagenense é sucedido pela Sicília na primeira guerra Púnica (Púnicos = Cartagenenses)
 * Após a segunda e terceira guerras púnicas Cartago sucumbe, e Roma conquista a península Ibérica
+
+*11 de fevereiro de 2025*
+
+#### II - Troféus de Viriato
+
+* Resistência de Cartago contra Roma
+* Exército de Anibal com auxílio dos peninsulares na primeira guerra púnica
+* Elogios aos guerreiros lusitanos
+* Lusitânia = terra cheia de amendoeiras. Entre o Douro e o Tejo
+* Sérgio Galba - traidor com deslealíssimo ardil, leva as tropas ao morticínio e entrega um triunfo sangrento à Roma
+* Viriato está entre os poucos que consegue escapar à chacina e ele será a alma indômita da independência lusitana
+* Grande guerreiro que leva os lusitanos à vitória de grandes batalhas e heróica na resistência contra Roma
+* Viriato após ato de complacência consegue um tratado com Roma e recebe o título *amicus Populi Romanus* que equivale ser reconhecido como soberano 
+* O tratado é repudiado anos depois por Roma
+* E após grande invasão, estando em menor número, estando em menor número, os lusitanos abandonam a Andaluzia, e após dificuldades, a soldo romano, três companheiros de Viriato, Andas, Ditalco e Minuro, o assassinaram à traição
+* Sertônio, exilado de Roma põem em cheque durante uma década os exércitos invasores, e governa romanizando os povos submetidos a ele
+* Há alegações a ligação dos lusitanos aos portugueses pela identidade de raça e à filiação de língua
+* há numerosas coincidências entre Viriato e Dom Afonso I
+* Santo Isidoro de Sevilha menciona a Lusitânia no mapa mundi das Etimologias, associando a Luzitânia ao território portucalense
+* Os portugueses adotaram como seus antepassados os lusitanos, como identidade de seu povo, que batalha pelo direito à vida livre
