@@ -31,8 +31,6 @@ publishing-year: Séc V a.C.
 * lacedônios = spartanos
 * conhecer é conhecer o mecanismo conhecedor = inteligência
 
-*10 de fevereiro de 2025*
-
 * Embora A tivesse sua pessoa em alta conta, devido ao seu orgulho, vaidade e alta posição, concorda que não poderia dar conselhos sobre coisas que não dominava, e que ele agora reconhecia que não dominaa
 * Concordava que não era vergonhoso não poder aconselhar sobre algo que não se professava conhecimento, mas que era altamente vergonhoso querer aconselhar sem nada saber do assunto que professar ser grande conhecedor
 * S tenta mostrar que ele só julgava ter o conhecimento por se sentir extremamente importante
@@ -54,8 +52,31 @@ publishing-year: Séc V a.C.
 * A titubia e S o desafia a explicar-lhe como se fosse à assembléia, e ainda argumenta sobre as desculpas inseguras de A, de que o orador pode convencer a muitos ou a somente um, se ele conhece do assunto
 * E assim S desafia-o e A o chama de violento
 * Ao que S responde forma firma: só por violência vou provar-te o contrário daquilo que não quiseste demnonstrar-me (que A não sabe)
-* E S discorre uma série de sentenças correlacionando a beleza e a justiça, onde não há como cometer uma ação feia porém justa, onde o belo é bom e feio é mau, coragem - vida, covardia - morte
+* E S. discorre uma série de sentenças correlacionando a beleza e a justiça, onde não há como cometer uma ação feia porém justa, onde o belo é bom e feio é mau, coragem - vida, covardia - morte
 * e conclui que uma ação que produz o mal é uma ação má, uma ação que produz o bem é boa
 * e conclui em seguida que nada que é belo, enquanto belo, é mau, e só se possui o bem quem age de modo belo e bom 
 * Nisso se completa a aporia de A, que demonstra extrema confusão, e diz nada saber
 
+* S usa interessante argumento onde sempre que nos contradizemos sem querermos o fazê-lo é por conta de desconhecimento do assunto
+* S demonstra que os erros da vida prática decorre de ignorância, sobre o que presumimos saber e não sabemos
+* Pois quando tempo consciência de nossa ignorância agimos com prudência, com receio de vacilarmos e pedirmos auxílio
+* A mais repreensível das ignorâncias, de onde provém todos os males, é a ignorância da ignorância, são aqueles que não sabem que não sabem
+* E quanto mais importante o assunto, mais nociva será a ignorância
+* A atirou-se à política antes da instrução
+* Só adiquire conhecimento aquele que é capaz de passar o conhecimento assim valida o conhecimento de alguém, olha-se os seus frutos, quem se tornou sábio aprendendo com ele?
+* S sugere usar como régua não apenas os que nos rodeam, mas sim os maiores inimigo. E alertou do risco do vão orgulho de ter-se em alta conta (preceito)
+* Inscrição de Delfos: Conhece a ti mesmo
+* S alega que Deus é seu tutor e que isso lhe atribuiu sabedoria
+* Primeira coisa a fazer é não hesitar, nem ter tibieza. É preciso ter o desejo de aperfeiçoar-se
+* Em qual virtude? A virtude dos homens bons, homens sensatos: Justiça
+* S disserta a cerca das artes que cuidam e algo de que as artes que cuidam que pertence a algo
+* a arte que se preocupa conosco não é a que se ocupa com o que nos pertence
+* para saber da arte que se ocupa do sapato, é preciso saber o que é sapato
+* para entender da arte que se ocupa conosco, é preciso saber o que é esse "conosco", lembrando que essa arte é o que está ligado à virtudedos homens bons, a que é necessária ao aperfeiçoamento do homem
+* Como se conhecer
+* a diferenciação da coisa e o que pertence à coisa da alma e do corpo
+* o homem é que se serve do corpo
+* exercitar, aprender o que é preciso conhecer
+* é preciso cuidar da alma
+* olhar para só é como olhar no espelho
+* para S a virturde específica da alma é a inteligência, é a parte da alma que mais se assemelha ao divino
